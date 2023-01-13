@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Cat",
+        "subtitle": "The cat (Felis catus) is a domestic species of small carnivorous mammal.",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cat_August_2010-4.jpg",
+        "detail": "The cat is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family. Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill rodents. About 60 cat breeds are recognized by various cat registries."
+    },
+    {
+        "title": "Dog",
+        "subtitle": "The dog is a domesticated descendant of the wolf.",
+        "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=640:*",
+        "detail": "The dog  is a domesticated descendant of the wolf. Also called the domestic dog, it is derived from the extinct Pleistocene wolf, and the modern wolf is the dog's nearest living relative. Dogs were the first species to be domesticated by hunter-gatherers over 15,000 years ago before the development of agriculture. Due to their long association with humans, dogs have expanded to a large number of domestic individuals and gained the ability to thrive on a starch-rich diet that would be inadequate for other canids."
+    },
+    {
+        "title": "Rabbit",
+        "subtitle": "Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ufenau_-_Oryctolagus_cuniculus_2011-07-25_17-33-40.jpg",
+        "detail": "Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae (which also contains the hares) of the order Lagomorpha (which also contains the pikas). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet. With its widespread effect on ecologies and cultures, the rabbit is, in many areas of the world, a part of daily life—as food, clothing, a companion, and a source of artistic inspiration."
+    }
+]
